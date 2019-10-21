@@ -14,7 +14,7 @@ With help moderating by:
 
 ## How to join
 
-[Click here](https://discord.gg/rqAeTR5) to get auto-invited. You will need a Discord account.
+[Click here](https://discord.gg/5DZ765U) to get auto-invited. You will need a Discord account.
 
 ## Community Rules
 
