@@ -6,12 +6,12 @@ It's ran by:
  
  - [dream](https://github.com/Draem)
  - [Haxified](https://github.com/robertwestbury)
- - [Micah](https://github.com/MicahZoltu)
  
 With help moderating by:
 
  - [Robinlemon](https://github.com/Robinlemon)
  - [Orta Therox](https://github.com/orta)
+ - [Micah](https://github.com/MicahZoltu)
 
 ## How to join
 
