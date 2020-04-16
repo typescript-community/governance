@@ -5,7 +5,8 @@ TypeScript is a discord community for people interested in TypeScript
 It's ran by:
  
  - [dream](https://github.com/Draem)
- - [Haxified](https://github.com/Haxified)
+ - [Haxified](https://github.com/robertwestbury)
+ - [Micah](https://github.com/MicahZoltu)
  
 With help moderating by:
 
