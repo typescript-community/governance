@@ -5,7 +5,7 @@ TypeScript is a discord community for people interested in TypeScript
 It's ran by:
  
  - [dream](https://github.com/Draem)
- - [Haxified](https://github.com/robertwestbury)
+ - [Robert Westbury](https://github.com/robertt)
  
 With help moderating by:
 
@@ -15,7 +15,7 @@ With help moderating by:
 
 ## How to join
 
-[Click here](https://discord.gg/5DZ765U) to get auto-invited. You will need a Discord account.
+[Click here](https://discord.gg/typescript) to get auto-invited. You will need a Discord account.
 
 ## Community Rules
 
