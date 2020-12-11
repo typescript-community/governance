@@ -12,6 +12,8 @@ With help moderating by:
  - [Robinlemon](https://github.com/Robinlemon)
  - [Orta Therox](https://github.com/orta)
  - [Micah](https://github.com/MicahZoltu)
+ - [Retsam](https://github.com/Retsam)
+ - [Gerrit0](https://github.com/Gerrit0)
 
 ## How to join
 
